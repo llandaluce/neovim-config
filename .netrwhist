@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/landerlandaluce/Desktop/Develop/projects/coding-challenges/find-short'
+let g:netrw_dirhist_8='/Users/landerlandaluce/Desktop/Develop/projects/coding-challenges'
+let g:netrw_dirhist_7='/Users/landerlandaluce'
+let g:netrw_dirhist_6='/Users/landerlandaluce/Desktop'
+let g:netrw_dirhist_5='/Users/landerlandaluce'
+let g:netrw_dirhist_4='/Users'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_2='/Users'
+let g:netrw_dirhist_1='/Users/landerlandaluce'
